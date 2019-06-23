@@ -1,0 +1,5 @@
+rootProject.name = 'OneThreeForty-Native'
+
+include ":lib", ":tests"
+
+enableFeaturePreview('GRADLE_METADATA')
